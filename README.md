@@ -21,7 +21,9 @@ _Команда HyperCollapse_
 | БД | MySQL | Привычная база, приятные конкурсы | [Безпарольный доступ к БД](https://food.spatecon.ru/pma) |
 
 ### Демонстрация
-Вы моежете установить приложение на свое Android устройство с помощью собранной и подписанной apk: [ru.spatecon.food.apk](https://github.com/RusOverLord/Xakaton/blob/master/android_bundle/ru.spatecon.food.apk?raw=true)
+[Видео на YouTube с комментариями](https://www.youtube.com/watch?v=RgZTaWjAAYI)
+
+Вы также можете установить приложение на свое Android устройство с помощью собранного apk файла: [ru.spatecon.food.apk](https://github.com/RusOverLord/Xakaton/blob/master/android_bundle/ru.spatecon.food.apk?raw=true)
 
 [![Видео с демонстрацией](asset/screen3.png)
 ](https://food.spatecon.ru/images/demo.mp4)
