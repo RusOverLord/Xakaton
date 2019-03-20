@@ -14,4 +14,4 @@
 | БД | MySQL | Привычная база, приятные конкурсы | [Безпарольный доступ к БД](https://food.spatecon.ru/pma) |
 
 ### Демонстрация
-Готовая apk: [скачать](https://github.com/RusOverLord/Xakaton/tree/master/android_bundle/ru.spatecon.food.apk)
+Готовая apk: [скачать](https://github.com/RusOverLord/Xakaton/blob/master/android_bundle/ru.spatecon.food.apk?raw=true)
