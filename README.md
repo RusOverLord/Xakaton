@@ -17,8 +17,8 @@ _Команда HyperCollapse_
 
 ### Демонстрация
 Вы моежете установить приложение на свое Android устройство с помощью собранной и подписанной apk: [ru.spatecon.food.apk](https://github.com/RusOverLord/Xakaton/blob/master/android_bundle/ru.spatecon.food.apk?raw=true)
-![Гифка с демонстрацией](https://github.com/RusOverLord/Xakaton/blob/master/asset/gif1.gif?raw=true)
-[Видео](https://food.spatecon.ru/images/demo.mp4)
+[![Гифка с демонстрацией](https://github.com/RusOverLord/Xakaton/blob/master/asset/gif1.gif?raw=true)
+](https://food.spatecon.ru/images/demo.mp4)
 
 
 ### От дизайнера
